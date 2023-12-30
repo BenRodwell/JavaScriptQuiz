@@ -2,7 +2,7 @@
 
 ## Description
 
-This website allows users to test their JavaScript knowledge and skills based upon a series of questions related to this topic of JavaScript.
+This website allows users to test their JavaScript knowledge and skills based upon a series of questions related to the topic of JavaScript.
 
 ## Table of Contents (Optional)
 
